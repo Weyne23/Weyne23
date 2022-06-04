@@ -3,7 +3,7 @@
 ### 🎮🏀❤
 
 - 🔭 Atualmente trabalho com .Net C#
-- 🌱 Estudando Api's Rest
+- 🌱 Estudando Testes em C#
 <div align="center">
   <a href="https://github.com/weyne23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weyne23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
