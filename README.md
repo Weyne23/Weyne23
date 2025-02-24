@@ -30,7 +30,7 @@
  
 </div>
 
-<div>
+<div display="flex" flex-direction="column">
     <img align="left" alt="Lelouch" height="250" padding="4px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731255065444514/Lelouch.gif?ex=67be56c0&is=67bd0540&hm=890411d74ddcb4dd6cc79041d5adc0f0d55b632088fb81721aa8c837662ff1fd&">
-    <img align="left" alt="Lelouch" height="250" padding="4px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731709740453898/hanamichi2.gif?ex=67be572c&is=67bd05ac&hm=4a7ac50266f65935a60a5a97035dc7530bdbec642def745c22a0883c3d6bb117&">
+    <img align="left" alt="Hanamichi" height="250" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731709740453898/hanamichi2.gif?ex=67be572c&is=67bd05ac&hm=4a7ac50266f65935a60a5a97035dc7530bdbec642def745c22a0883c3d6bb117&">
 </div>
