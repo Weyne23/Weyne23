@@ -18,7 +18,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="hanamichi2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769272327078019114/973075714737864764/hanamichi2.gif">
+  <img align="right" alt="hanamichi2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731709740453898/hanamichi2.gif?ex=67be572c&is=67bd05ac&hm=4a7ac50266f65935a60a5a97035dc7530bdbec642def745c22a0883c3d6bb117&">
 </div>
   
   ##
@@ -30,7 +30,7 @@
  
 </div>
 
-<div display="grid" grid-template-columns="256px 1fr">
+<div display="flex" grid-template-columns="256px 1fr">
     <img align="left" alt="Lelouch" height="250" padding="4px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731255065444514/Lelouch.gif?ex=67be56c0&is=67bd0540&hm=890411d74ddcb4dd6cc79041d5adc0f0d55b632088fb81721aa8c837662ff1fd&">
     <img align="left" alt="Hanamichi" height="250" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731709740453898/hanamichi2.gif?ex=67be572c&is=67bd05ac&hm=4a7ac50266f65935a60a5a97035dc7530bdbec642def745c22a0883c3d6bb117&">
 </div>
