@@ -31,5 +31,5 @@
 </div>
 
 <div>
-    <img align="center" alt="Lelouch" height="250" padding="4px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731255065444514/Lelouch.gif?ex=67be56c0&is=67bd0540&hm=890411d74ddcb4dd6cc79041d5adc0f0d55b632088fb81721aa8c837662ff1fd&">
+    <img align="right" alt="Lelouch" height="250" padding="4px" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/975031671567036440/1343731255065444514/Lelouch.gif?ex=67be56c0&is=67bd0540&hm=890411d74ddcb4dd6cc79041d5adc0f0d55b632088fb81721aa8c837662ff1fd&">
 </div>
