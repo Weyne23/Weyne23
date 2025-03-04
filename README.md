@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil GitHub 👋
 ### 🎮🏀❤
 
-- 🔭 Atualmente trabalho com .Net
-- 🌱 Estudando CSS HTML
+<p>- 🔭 Atualmente trabalho com .Net</p>
+<p>- 🌱 Estudando CSS HTML</p>
 <div align="center">
   <a href="https://github.com/weyne23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weyne23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
